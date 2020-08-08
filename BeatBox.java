@@ -15,7 +15,7 @@ public class BeatBox {
     Sequence sequence;
     Track track;
 
-    String []InstrumentNames = {"Bass Drum", "Closed Hi-Hat", "Open Hi-Hat", "Acoustic Snare", "Crash CYmbal",
+    String []InstrumentNames = {"Bass Drumbase", "Closed Hi-Hat", "Open Hi-Hat", "Acoustic Snare", "Crash CYmbal",
                                    "Hand Ball","High Tom", "Hi Bongo"};
     int []instruments ={35, 42, 46, 38, 49, 39, 50, 60};
 
